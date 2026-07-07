@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0027-remove-element) |
+| [0057-insert-interval](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0152-maximum-product-subarray) |
