@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0202-happy-number) |
 | [0457-circular-array-loop](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0457-circular-array-loop) |
+| [0904-fruit-into-baskets](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0904-fruit-into-baskets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
