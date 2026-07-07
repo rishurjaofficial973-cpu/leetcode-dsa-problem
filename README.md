@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0977-squares-of-a-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0876-middle-of-the-linked-list) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0202-happy-number) |
+| [0457-circular-array-loop](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0457-circular-array-loop) |
 ## Sorting
 |  |
 | ------- |
