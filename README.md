@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0283-move-zeroes) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0283-move-zeroes) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0088-merge-sorted-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -79,9 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
