@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0457-circular-array-loop) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0844-backspace-string-compare) |
@@ -186,5 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
