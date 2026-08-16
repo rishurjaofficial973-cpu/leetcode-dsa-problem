@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0844-backspace-string-compare) |
+| [1189-maximum-number-of-balloons](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
@@ -190,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/rishurjaofficial973-cpu/leetcode--gfg-dsa-problem/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
