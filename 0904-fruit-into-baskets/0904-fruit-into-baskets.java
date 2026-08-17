@@ -1,28 +1,27 @@
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
     public int totalFruit(int[] fruits) {
-        Map<Integer, Integer> map = new HashMap<>();
-        int left = 0;
-        int maxFruits = 0;
+        HashMap<Integer , Integer > map = new HashMap<>();
+        // bhai ab har ek element ka frequency h mere pass 
+          int left = 0 ;
+          int maxlength = 0;
+          int k = 2;
+          int n = fruits.length;
+        for(int right =0 ; right < n;right++){
+            int num = fruits[right];
+            map.put(num,map.getOrDefault(num,0)+1);
 
-        for (int right = 0; right < fruits.length; right++) {
-            map.put(fruits[right], map.getOrDefault(fruits[right], 0) + 1);
-
-            while (map.size() > 2) {
-                map.put(fruits[left], map.get(fruits[left]) - 1);
-
-                if (map.get(fruits[left]) == 0) {
-                    map.remove(fruits[left]);
+            while(map.size()>k){
+                int leftchar = fruits[left];
+                map.put(leftchar,map.get(leftchar)-1);
+                if(map.get(leftchar)==0){
+                    map.remove(leftchar);
                 }
-
                 left++;
             }
-
-            maxFruits = Math.max(maxFruits, right - left + 1);
+            if(map.size()<=k){
+                maxlength = Math.max(maxlength,right-left+1);
+            }
         }
-
-        return maxFruits;
+        return maxlength;
     }
 }
